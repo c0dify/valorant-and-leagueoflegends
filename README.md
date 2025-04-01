@@ -1,61 +1,61 @@
-# valorant-and-leagueoflegends
-Все эти ссылки вам нужно вставить в list-general.txt, в папке zapret'a
-===============================================================================
-historyofdota.com
-historyofdota.net
-historyofdota.org
-instituteofwar.org
-molesports.com
-rgpub.io
-riot-games.com
-riot.com
-riot.net
-riotcdn.net
-riotgames.co.kr
-riotgames.com
-riotgames.info
-riotgames.jp
-riotgames.net
-riotgames.tv
-riotpin.com
-riotpoints.com
-rstatic.net
-supremacy.com
-supremacy.net
-# League of Lengends
-championshipseriesleague.com
-lcsmerch.com
-leaguehighschool.com
-leagueoflegends.ca
-leagueoflegends.cn @cn
-leagueoflegends.co.kr
-leagueoflegends.com
-leagueoflegends.info
-leagueoflegends.kr
-leagueoflegends.net
-leagueoflegends.org
-leagueoflegendsscripts.com
-leaguesharp.info
-leaguoflegends.com
-learnwithleague.com
-lol-europe.com
-lolclub.org
-lolespor.com
-lolesports.com
-lolfanart.net
-lolpcs.com
-lolshop.co.kr
-lolstatic.com
-lolusercontent.com
-lpl.com.cn @cn
-pvp.net
-pvp.tv
-ulol.com
-full:lolstatic-a.akamaihd.net
-# Valorant
-playvalorant.com
-# Riot Forge
-riotforgegames.com
-ruinedking.com
+<h2><b>Все эти ссылки вам нужно вставить в list-general.txt, в папке zapret'a</b></h2>
+
+<h1><b>Riot</b></h1>
+<br>
+historyofdota.com <br />
+historyofdota.net <br />
+historyofdota.org <br />
+instituteofwar.org <br />
+molesports.com <br />
+rgpub.io <br />
+riot-games.com <br />
+riot.com <br />
+riot.net <br />
+riotcdn.net <br />
+riotgames.co.kr <br />
+riotgames.com <br />
+riotgames.info <br />
+riotgames.jp <br />
+riotgames.net <br />
+riotgames.tv <br />
+riotpin.com <br />
+riotpoints.com <br />
+rstatic.net <br />
+supremacy.com <br />
+supremacy.net <br />
+<h1><b>League of Legends</b></h1>
+championshipseriesleague.com <br />
+lcsmerch.com <br />
+leaguehighschool.com <br />
+leagueoflegends.ca <br />
+leagueoflegends.cn @cn <br />
+leagueoflegends.co.kr <br />
+leagueoflegends.com <br />
+leagueoflegends.info <br />
+leagueoflegends.kr <br />
+leagueoflegends.net <br />
+leagueoflegends.org <br />
+leagueoflegendsscripts.com <br />
+leaguesharp.info <br />
+leaguoflegends.com <br />
+learnwithleague.com <br />
+lol-europe.com <br />
+lolclub.org <br />
+lolespor.com <br />
+lolesports.com <br />
+lolfanart.net <br />
+lolpcs.com <br />
+lolshop.co.kr <br />
+lolstatic.com <br />
+lolusercontent.com <br />
+lpl.com.cn @cn <br />
+pvp.net <br />
+pvp.tv <br />
+ulol.com <br />
+full:lolstatic-a.akamaihd.net <br />
+<h1><b>Valorant</b></h1>
+playvalorant.com <br />
+<h1><b>Riot Forge</b></h1>
+riotforgegames.com <br />
+ruinedking.com <br />
 convrgencegame.com
-===============================================================================
